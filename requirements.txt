@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly>=5.22.0
+matplotlib
+seaborn
+requests
+python-dotenv
